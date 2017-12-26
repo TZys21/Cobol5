@@ -1,0 +1,9 @@
+Negative hours worked found on the following record:
+00009Accounting                    00133Urethane            Polly          F17 Chem Abstracts   Columbus OH         Payroll Analyst     1993081320010412M02101NYN050H0000015503200000000000000400q00000000
+
+Invalid pay code found on the following record:
+Non-numeric hours worked found on the following record:
+00200Manufacturing                 00162Koothrapali         Raj            M14 Oak St           Pasadena CA         Assembly I          1988112519900101S01057YYY10040000020004000000000000000400a00000000
+
+Total errors:                 3
+Total record with errors:     2
